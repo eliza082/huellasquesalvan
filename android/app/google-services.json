@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023823750095",
+    "project_id": "huellas-que-salvan",
+    "storage_bucket": "huellas-que-salvan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023823750095:android:d86ea9ebb0c8faf9f6a8ba",
+        "android_client_info": {
+          "package_name": "com.example.huellas_que_salvan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7Erdgj8w2utBf0mSWbsIqQoNxzMWf9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

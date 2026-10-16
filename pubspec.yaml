@@ -1,0 +1,22 @@
+name: huellas_que_salvan
+description: App para reportar animales en situación de calle.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.0
+  cloud_firestore: ^4.13.0
+  firebase_storage: ^11.5.0
+  geolocator: ^10.1.0
+  image_picker: ^1.0.4
+  provider: ^6.1.1
+  cupertino_icons: ^1.0.6
+
+flutter:
+  uses-material-design: true
